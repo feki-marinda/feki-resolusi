@@ -2,4 +2,6 @@ Resolusi feki
 Konsisten belajar koding minimal 4 jam/hari
 bisa membuat web sedeerhana
 menguasai PHP
+menguasai html dan css
 Belajar Laravel
+lulus SIB Eduwork
